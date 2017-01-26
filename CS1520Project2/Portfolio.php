@@ -33,22 +33,6 @@
 		</nav>
 	
 		<div id="pageWrap">
-			<div class="content-container">
-				<div class="content">
-					<p>Overview of Contents</p>
-					<p class = "standard">Welcome to my professional portfolio! the contents of this page are as such:</p>
-					<ul class = "standard">
-						<li>The Website I worked on for my internship</li>
-						<li>The Link to a group project that I am proud of</li>
-						<li>My Cover Letter template</li>
-						<li>My Job References</li>
-						<li>Some of my writing samples</li>
-						<li>My School Uniforms policy proposal</li>
-						<li>The PowerPoint Presentation for the proposal</li>
-					</ul>
-					
-				</div>
-			</div>
 		
 			<div class="content-container">
 				<div class="content">
@@ -86,7 +70,7 @@
 			
 			<div class="content-container">
 				<div class="content">
-					<p>Rerences</p>
+					<p>REFERENCES</p>
 					<p>Ryan Sweeney - Manager, GPO Applications at Intalere</p>
 					<p class = "standard">I chose Ryan as a contact because he was my supervisor at my internship. He is able to speak favorably to my character in the workplace, my desire to do work hard and my abitliy to learn quickly and do things well.</p>
 					<p class = "standard">contact at: ryan.sweeney@intalere.com</p>
@@ -102,7 +86,7 @@
 			
 			<div class="content-container">
 				<div class="content">
-					<p>Writing Samples</p>
+					<p>WRITING SAMPLES</p>
 					<p class = "standard">I decided to include two writing samples that I think highlight seperate but equally important aspects of myself. The first is a paper I wrote to dicuss a controversial issue 
 					that was turned in with a job application. I included this because it shows my ability to think outside of the box and be creative but still logic based. The second is a paper I wrote talking about
 					what it means to me to be professional. I put this in because it highlights my understanding of a professional workspace and how it should function. Please visit the listed links to be redirected to 
